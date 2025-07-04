@@ -11,7 +11,7 @@ I'm a Fullstack Software Developer with a strong focus on back-end development u
   Communication · Teamwork & Collaboration · Problem-Solving · Adaptability & Flexibility · Time Management · Patience · Discipline
 
 - **Technologies:**  
-  .NET · Figma · Git · GitHub · Artificial Intelligence (AI) · Visual Studio Code · Visual Studio · SQL Server · and more
+  .NET · Figma · Git · GitHub · Artificial Intelligence (AI) · Visual Studio Code · Visual Studio · SQL Server · PHP · and more
 
 ---
 
